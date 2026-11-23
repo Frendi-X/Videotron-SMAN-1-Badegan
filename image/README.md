@@ -7,7 +7,7 @@ Folder ini berisi dokumentasi visual yang mendukung proses konfigurasi dan pemas
 ## 📷 Isi Folder
 
 - **Gambar teknis:** Menampilkan tata letak pemasangan panel LED.
-- **Diagram koneksi:** Skema sambungan antar panel menggunakan chip **ICN2018** dan **LS9931**.
+- **Diagram koneksi:** Skema sambungan antar panel menggunakan chip **LS9931** dan **ICN2018**.
 - **Foto dokumentasi lapangan:** Bukti visual pemasangan videotron dan hasil tampilan LED setelah konfigurasi.
 
 ---
